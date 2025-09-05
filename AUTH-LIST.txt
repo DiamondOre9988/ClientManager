@@ -1,2 +1,9 @@
-"2d85655f-68e3-3c9c-be21-f557ce322e0d",
-"d2d85655f-68e3-3c9c-be21-f557ce322e0d"
+const std::unordered_set<std::string> x = {
+	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0d"),
+	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0d"),
+	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0de"),
+	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0d"),
+	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0d"),
+	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0d"),
+	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0d")
+};
