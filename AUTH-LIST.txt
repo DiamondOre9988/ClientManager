@@ -1,9 +1,5 @@
-const std::unordered_set<std::string> x = {
-	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0d"),
-	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0d"),
-	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0de"),
-	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0d"),
-	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0d"),
-	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0d"),
-	xorstr_("2d85655f-68e3-3c9c-be21-f557ce322e0d")
-};
+5d41402abc4b2a76b9719d911017c592
+098f6bcd4621d373cade4e832627b4f6
+7d793037a0760186574b0282f2f435e7
+e10adc3949ba59abbe56e057f20f883e
+25d55ad283aa400af464c76d713c07ad
